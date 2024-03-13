@@ -1,4 +1,4 @@
-![Screenshot 2024-03-13 110515](https://github.com/gowshik145/2a_Stop_and_Wait_Protocol/assets/155086127/c9cbe598-b00c-42ae-87cc-1ecbebcc8d86)# 2a_Stop_and_Wait_Protocol
+# 2a_Stop_and_Wait_Protocol
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
